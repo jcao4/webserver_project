@@ -1,3 +1,3 @@
-module handlers
+module workspace
 
 go 1.20
